@@ -1,0 +1,45 @@
+# API
+fastapi
+uvicorn
+python-multipart
+pydantic
+python-jose
+passlib
+
+# Doc parsing
+pdfplumber
+python-docx
+pytesseract
+Pillow
+
+# NLP — InLegalBERT
+transformers
+torch
+sentencepiece
+accelerate
+
+# Embeddings — Qwen3
+sentence-transformers
+
+# Vector store
+chromadb
+
+# Analytics
+pandas
+networkx
+
+# LLM
+anthropic
+
+# DB
+sqlalchemy
+aiosqlite
+
+# Dashboard
+streamlit
+plotly
+requests
+
+# Utilities
+python-dotenv
+httpx

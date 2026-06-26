@@ -1,0 +1,23 @@
+{
+  "sec_src": "statute_identification/data/secs.jsonl",
+  "train_src": "statute_identification/data/train.jsonl",
+  "dev_src": "statute_identification/data/dev.jsonl",
+  "test_src": "statute_identification/data/test.jsonl",
+  "infer_src": null,
+  "sec_cache": "statute_identification/cache/secs.pkl",
+  "train_cache": "statute_identification/cache/train.pkl",
+  "dev_cache": "statute_identification/cache/dev.pkl",
+  "test_cache": "statute_identification/cache/test.pkl",
+  "infer_cache": "statute_identification/cache/infer.pkl",
+  "s2v_path": "statute_identification/data/ils2v.bin",
+  "type_map": "statute_identification/data/type_map.json",
+  "label_tree": "statute_identification/data/label_tree.json",
+  "citation_network": "statute_identification/data/citation_network.json",
+  "schemas": "statute_identification/data/schemas.json",
+  "model_load": "statute_identification/data/best_model.pt",
+  "metrics_load": null,
+  "model_dump": "statute_identification/data/best_model.pt",
+  "dev_metrics_dump": "statute_identification/cache/dev_metrics.pkl",
+  "test_metrics_dump": "statute_identification/cache/test_metrics.pkl",
+  "infer_trg": "statute_identification/cache/infer_output.jsonl"
+}
